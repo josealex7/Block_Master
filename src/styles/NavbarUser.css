@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    font-family: "Source Sans Pro", Arial, sans-serif;
+}
+
+.divContenedorNav{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(16, 17, 24);
+}
+
+.headerNav{
+    background-color: rgb(16, 17, 24);
+    font-size: 18px;
+    padding: 10px 3% 20px;
+    font-weight: 600;
+    height: 80px;
+    border-bottom: 2px solid yellow;
+
+}
+
+.NavHeader{
+    width: 100%;
+    color: white;
+    text-align: right;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    top: 10px;
+}
+
+.link1{
+    float: left;
+    top: 10px;
+}
+
+.imgLogo{
+    float: left;
+}
+
+.link:hover{
+    color: rgb(218, 144, 49);
+}
+
+.Search{
+    color: white;
+}
